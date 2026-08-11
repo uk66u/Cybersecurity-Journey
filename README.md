@@ -1,28 +1,42 @@
 # Cybersecurity Journey
 
 ## About Me
-Aspiring SOC Analyst and cybersecurity enthusiast.
 
-## Certifications
-- Security+ (In Progress)
+Aspiring Junior SOC Analyst with a background in cybersecurity and hands-on experience in SOC operations, SIEM monitoring, alert triage, and security event analysis.
+
+## Training
+
+- CompTIA Security+ (SY0-701) Training — Completed
+- SOC Level 1 — In Progress
 
 ## Learning Platforms
+
 - TryHackMe
 - Hack The Box
 
-## Completed Rooms
+## Completed Labs
 
 ### TryHackMe
-- Humans as Attack Vectors
+
+- [SOC L1 Alert Triage](./TryHackMe/SOC-Alert-Triage.md)
+- [Humans as Attack Vectors](./TryHackMe/Humans-as-Attack-Vectors.md)
 
 ## Skills
+
 - SOC Operations
+- SIEM Monitoring
+- Alert Triage
+- Log Analysis
 - Incident Response
 - Phishing Analysis
-- SIEM Monitoring
-- Security Awareness
+- Network Security
+- Linux
+- Security Event Analysis
 
-## Goals
-- Build practical SOC skills
-- Complete SOC Level 1 path
-- Document cybersecurity learning journey
+## Current Goals
+
+- Build practical SOC Analyst skills
+- Complete the SOC Level 1 path
+- Practice real-world alert investigations
+- Improve incident investigation and reporting skills
+- Document my cybersecurity learning journey

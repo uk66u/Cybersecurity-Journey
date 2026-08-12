@@ -18,6 +18,7 @@ Aspiring Junior SOC Analyst with a background in cybersecurity and hands-on expe
 
 ### TryHackMe
 
+- [Windows Logging for SOC](./TryHackMe/Windows-Logging-for-SOC.md)
 - [SOC L1 Alert Triage](./TryHackMe/SOC-Alert-Triage.md)
 - [Humans as Attack Vectors](./TryHackMe/Humans-as-Attack-Vectors.md)
 
@@ -32,6 +33,9 @@ Aspiring Junior SOC Analyst with a background in cybersecurity and hands-on expe
 - Network Security
 - Linux
 - Security Event Analysis
+-  Windows Event Log Analysis
+- Sysmon Analysis
+- PowerShell History Analysis
 
 ## Current Goals
 
